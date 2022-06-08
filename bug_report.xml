@@ -1,1 +1,10 @@
-
+<?xml version-"1.0"?>
+<bug_report>
+<ID>aith-2727</ID>
+<Title>Кнопка входа неактивна</Title>
+<Preconditions>Открыть страницу https://ith.com , перейти в раздел входа в систему</Preconditions>
+<STR>Заполнить валидными данными поля входа в систему и нажать кнопку вход</STR>
+<ER>Вход успешно выполнен</ER>
+<AR>Кнопка входа неактивна после выполнения всех необходимых полей входа в систему</AR>
+<Attachments>screenshot.png</Attachments>
+</bug_report>
